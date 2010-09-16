@@ -32,7 +32,7 @@ Logística</y:NodeLabel>
           <y:Geometry height="48.0" width="48.0" x="294.0" y="70.5"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="109.5107421875" x="-30.75537109375" y="52.00000000000001">Empleado 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="109.5107421875" x="-30.75537109375" y="52.0">Empleado 
 Atención la cliente</y:NodeLabel>
           <y:Image refid="2"/>
         </y:ImageNode>
@@ -326,7 +326,7 @@ Atención la cliente</y:NodeLabel>
     <edge id="e8" source="n3" target="n9">
       <data key="d7">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-107.203125" ty="16.833333333333535"/>
+          <y:Path sx="0.0" sy="0.0" tx="-118.91489361702122" ty="17.851063829787236"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -366,7 +366,7 @@ Atención la cliente</y:NodeLabel>
     <edge id="e12" source="n2" target="n9">
       <data key="d7">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-113.453125" ty="29.333333333333535"/>
+          <y:Path sx="0.0" sy="0.0" tx="-110.87234042553189" ty="25.893617021276597"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -397,6 +397,16 @@ Atención la cliente</y:NodeLabel>
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-105.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n0" target="n9">
+      <data key="d7">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-114.31914893617022" ty="19.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
