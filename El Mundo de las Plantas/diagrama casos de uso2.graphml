@@ -42,18 +42,6 @@
     <node id="n2">
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="49.0" width="142.0" x="312.5" y="104.5"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.0" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="119.0" x="11.5" y="7.5">Mantener servicio 
-de asesoramiento</y:NodeLabel>
-          <y:Shape type="ellipse"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n3">
-      <data key="d3">
-        <y:ShapeNode>
           <y:Geometry height="60.0" width="142.0" x="312.5" y="345.5"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
@@ -62,7 +50,7 @@ de asesoramiento</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n4">
+    <node id="n3">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLUseCase]]></data>
       <data key="d3">
@@ -76,7 +64,7 @@ a domicilio</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n5">
+    <node id="n4">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLUseCase]]></data>
       <data key="d3">
@@ -89,7 +77,7 @@ a domicilio</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n6">
+    <node id="n5">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLUseCase]]></data>
       <data key="d3">
@@ -102,12 +90,12 @@ a domicilio</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n7">
+    <node id="n6">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLUseCase]]></data>
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="50.0" width="137.0" x="312.5" y="183.5"/>
+          <y:Geometry height="50.0" width="137.0" x="312.5" y="129.5"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.0" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="111.0" x="13.0" y="14.5">Mantener diseño</y:NodeLabel>
@@ -115,7 +103,7 @@ a domicilio</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n8">
+    <node id="n7">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLUseCase]]></data>
       <data key="d3">
@@ -128,7 +116,7 @@ a domicilio</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n9">
+    <node id="n8">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLUseCase]]></data>
       <data key="d3">
@@ -141,7 +129,7 @@ a domicilio</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n10">
+    <node id="n9">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLActor]]></data>
       <data key="d3">
@@ -156,7 +144,7 @@ a domicilio</y:NodeLabel>
         </y:SVGNode>
       </data>
     </node>
-    <node id="n11">
+    <node id="n10">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLActor]]></data>
       <data key="d3">
@@ -171,7 +159,7 @@ a domicilio</y:NodeLabel>
         </y:SVGNode>
       </data>
     </node>
-    <node id="n12">
+    <node id="n11">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLActor]]></data>
       <data key="d3">
@@ -186,7 +174,7 @@ a domicilio</y:NodeLabel>
         </y:SVGNode>
       </data>
     </node>
-    <node id="n13">
+    <node id="n12">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLActor]]></data>
       <data key="d3">
@@ -201,7 +189,7 @@ a domicilio</y:NodeLabel>
         </y:SVGNode>
       </data>
     </node>
-    <node id="n14">
+    <node id="n13">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLActor]]></data>
       <data key="d3">
@@ -209,14 +197,14 @@ a domicilio</y:NodeLabel>
           <y:Geometry height="100.0" width="60.0" x="131.89569672131154" y="932.7704918032786"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.0" modelName="eight_pos" modelPosition="s" textColor="#000000" visible="true" width="45.0" x="7.5" y="104.0">Envios</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.0" modelName="eight_pos" modelPosition="s" textColor="#000000" visible="true" width="45.0" x="7.5" y="104.00000000000011">Envios</y:NodeLabel>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="1"/>
           </y:SVGModel>
         </y:SVGNode>
       </data>
     </node>
-    <node id="n15">
+    <node id="n14">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLActor]]></data>
       <data key="d3">
@@ -231,7 +219,7 @@ a domicilio</y:NodeLabel>
         </y:SVGNode>
       </data>
     </node>
-    <node id="n16">
+    <node id="n15">
       <data key="d1"/>
       <data key="d2"><![CDATA[UMLUseCase]]></data>
       <data key="d3">
@@ -244,7 +232,7 @@ a domicilio</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <edge id="e0" source="n11" target="n2">
+    <edge id="e0" source="n10" target="n6">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -254,7 +242,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e1" source="n11" target="n7">
+    <edge id="e1" source="n11" target="n2">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -264,7 +252,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e2" source="n12" target="n3">
+    <edge id="e2" source="n11" target="n5">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -274,7 +262,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e3" source="n12" target="n6">
+    <edge id="e3" source="n11" target="n4">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -284,7 +272,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e4" source="n12" target="n5">
+    <edge id="e4" source="n12" target="n1">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -294,7 +282,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e5" source="n13" target="n1">
+    <edge id="e5" source="n13" target="n3">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -304,7 +292,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e6" source="n14" target="n4">
+    <edge id="e6" source="n5" target="n14">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -314,7 +302,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e7" source="n6" target="n15">
+    <edge id="e7" source="n11" target="n0">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -324,7 +312,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e8" source="n12" target="n0">
+    <edge id="e8" source="n9" target="n7">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -334,7 +322,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e9" source="n10" target="n8">
+    <edge id="e9" source="n8" target="n11">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -344,17 +332,7 @@ a domicilio</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n9" target="n12">
-      <data key="d7">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e11" source="n12" target="n16">
+    <edge id="e10" source="n11" target="n15">
       <data key="d7">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
