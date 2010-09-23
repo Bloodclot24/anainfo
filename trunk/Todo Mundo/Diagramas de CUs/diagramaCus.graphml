@@ -33,7 +33,7 @@ Logística</y:NodeLabel>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="109.5107421875" x="-30.75537109375" y="52.0">Empleado 
-Atención la cliente</y:NodeLabel>
+Atención al cliente</y:NodeLabel>
           <y:Image refid="2"/>
         </y:ImageNode>
       </data>
@@ -161,7 +161,7 @@ Atención la cliente</y:NodeLabel>
           <y:Geometry height="50.0" width="210.0" x="575.419452887538" y="646.483282674772"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="157.91162109375" x="26.044189453125" y="15.036865234375">Mantener Trasnsportadora</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="151.41162109375" x="29.294189453125" y="15.036865234375">Mantener Transportadora</y:NodeLabel>
           <y:Shape type="ellipse"/>
         </y:ShapeNode>
       </data>
