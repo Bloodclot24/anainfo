@@ -19,7 +19,7 @@
           <y:Geometry height="48.0" width="48.0" x="294.0" y="579.9468085106383"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="66.14990234375" x="-9.074951171875" y="52.0">Empleado 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="80.60986328125" x="-16.304931640625" y="52.0">Empleado de
 Logística</y:NodeLabel>
           <y:Image refid="1"/>
         </y:ImageNode>
@@ -32,7 +32,7 @@ Logística</y:NodeLabel>
           <y:Geometry height="48.0" width="48.0" x="294.0" y="91.65501519756839"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="109.5107421875" x="-30.75537109375" y="52.0">Empleado 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="109.5107421875" x="-30.75537109375" y="52.0">Empleado de
 Atención al cliente</y:NodeLabel>
           <y:Image refid="2"/>
         </y:ImageNode>
