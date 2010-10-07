@@ -50,20 +50,22 @@ bool esRegular();
 ]]></data>
       <data key="d3">
         <y:UMLClassNode>
-          <y:Geometry height="182.0" width="185.0" x="-278.66666666666663" y="-556.5"/>
+          <y:Geometry height="217.0" width="188.4572748267899" x="-278.66666666666663" y="-556.5"/>
           <y:Fill color="#33CCCC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="39.39453125" x="72.802734375" y="3.0">Envio</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="39.39453125" x="74.53137178839495" y="3.0">Envio</y:NodeLabel>
           <y:UML clipContent="true" constraint="" omitDetails="false" stereotype="" use3DEffect="true">
             <y:AttributeLabel>datetime fechaDeSalida;
 datetime fechaDeLlegada;
 float costo;
 Ruta ruta;
-Cliente cliente;</y:AttributeLabel>
+Cliente cliente;
+bool estaPago;</y:AttributeLabel>
             <y:MethodLabel>datetime getFechaDeSalida();
 datetime getFechaDeLlegada();
 float getCosto();
 Ruta getRuta();
+bool estaPago();
 
 </y:MethodLabel>
           </y:UML>
@@ -285,7 +287,7 @@ string getTelefono();</y:MethodLabel>
     <edge id="e1" source="n2" target="n1">
       <data key="d7">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="92.5234375" ty="-41.5">
+          <y:Path sx="0.0" sy="0.0" tx="94.23651005581212" ty="-59.0">
             <y:Point x="25.33333333333337" y="-492.0"/>
             <y:Point x="-5.666666666666629" y="-492.0"/>
             <y:Point x="-5.666666666666629" y="-507.0"/>
