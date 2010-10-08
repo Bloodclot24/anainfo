@@ -53,7 +53,7 @@ costo
 ruta
 estaPago</y:AttributeLabel>
             <y:MethodLabel>consultarPosicionDeCarga
-</y:MethodLabel>
+calcularCostoEnvio</y:MethodLabel>
           </y:UML>
         </y:UMLClassNode>
       </data>
@@ -71,7 +71,7 @@ estaPago</y:AttributeLabel>
             <y:AttributeLabel>tramos
 origen
 destino</y:AttributeLabel>
-            <y:MethodLabel>calcularCostoEnvio</y:MethodLabel>
+            <y:MethodLabel/>
           </y:UML>
         </y:UMLClassNode>
       </data>
@@ -114,14 +114,16 @@ destino</y:AttributeLabel>
       <data key="d2"><![CDATA[UMLClass]]></data>
       <data key="d3">
         <y:UMLClassNode>
-          <y:Geometry height="106.5" width="142.40508083140878" x="-588.5" y="-244.0"/>
+          <y:Geometry height="120.32563510392606" width="153.0401847575058" x="-588.5" y="-244.0"/>
           <y:Fill color="#33CCCC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="43.72998046875" x="49.33755018132939" y="3.0">Tramo</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="43.72998046875" x="54.655102144377906" y="3.0">Tramo</y:NodeLabel>
           <y:UML clipContent="true" constraint="" omitDetails="false" stereotype="" use3DEffect="true">
             <y:AttributeLabel>mediosDeTransporte
-puntoDeCargaOrigen
-puntoDeCargaDestino</y:AttributeLabel>
+medioDeTransporteElegido
+puntoDeCarga
+puntoDeDescarga
+</y:AttributeLabel>
             <y:MethodLabel/>
           </y:UML>
         </y:UMLClassNode>
@@ -138,7 +140,7 @@ puntoDeCargaDestino</y:AttributeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="131.84814453125" x="1.4929023302179019" y="3.0">Medio de Transporte</y:NodeLabel>
           <y:UML clipContent="true" constraint="" omitDetails="false" stereotype="" use3DEffect="true">
             <y:AttributeLabel>empresa
-modoDeTransporte</y:AttributeLabel>
+tipoDeTransporte</y:AttributeLabel>
             <y:MethodLabel/>
           </y:UML>
         </y:UMLClassNode>
@@ -157,7 +159,7 @@ modoDeTransporte</y:AttributeLabel>
             <y:AttributeLabel>nombre
 direccion
 telefono
-</y:AttributeLabel>
+cuit</y:AttributeLabel>
             <y:MethodLabel/>
           </y:UML>
         </y:UMLClassNode>
@@ -299,13 +301,13 @@ telefono
     <edge id="e3" source="n7" target="n6">
       <data key="d7">
         <y:PolyLineEdge>
-          <y:Path sx="-67.43479118552727" sy="-35.13496535796776" tx="69.12424942263283" ty="-18.13704387990765">
+          <y:Path sx="-67.43479118552727" sy="-35.13496535796776" tx="76.47928514722867" ty="-25.04986143187068">
             <y:Point x="-389.16905311778294" y="-185.83854503464204"/>
             <y:Point x="-389.16905311778294" y="-208.88704387990765"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="diamond"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-69.6421484967027" y="-21.048497126977963"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-64.32459653365419" y="-21.048497126977963"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
