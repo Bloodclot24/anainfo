@@ -27,7 +27,7 @@
               <y:BorderInsets bottom="25" bottomF="25.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
-              <y:Geometry height="80.0" width="100.0" x="201.0" y="405.0"/>
+              <y:Geometry height="80.0" width="100.0" x="426.5" y="234.5"/>
               <y:Fill color="#CAECFF84" transparent="false"/>
               <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="100.0" x="0.0" y="0.0">Folder 1</y:NodeLabel>
@@ -134,7 +134,7 @@ Entry : informar cambios </y:NodeLabel>
     <node id="n7">
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="42.0" width="106.0" x="327.0" y="221.0"/>
+          <y:Geometry height="42.0" width="106.0" x="308.75" y="221.0"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="128.7578125" x="-11.37890625" y="11.6494140625">Envío llegado a destino</y:NodeLabel>
