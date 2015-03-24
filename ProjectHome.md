@@ -1,0 +1,1 @@
+Repositorio de trabajos prácticos de la materia Análisis de la Información de la Facultad de Ingeniería de la Universidad de Buenos Aires, 2do cuatrimestre 2010. Grupo 2, curso Rivadulla.
